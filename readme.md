@@ -1,0 +1,1 @@
+In this you can add card and delete them by clicking on them.w
